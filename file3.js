@@ -6,3 +6,4 @@ console.table([{
     name:'Azmi'
 }]);
 console.log('yeaeeeyyyy');
+console.log('file js 3');
