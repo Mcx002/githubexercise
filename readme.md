@@ -25,3 +25,9 @@ git push -u origin <branch>
 ```
 
 and your code will push to the branch
+
+# pull to a branch
+for pulling a data from a branch i just need to type the following code in your terminal and in your project directory
+```cmd
+git pull origin <branch>
+```
